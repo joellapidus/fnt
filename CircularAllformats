@@ -1,5 +1,5 @@
 @font-face{
-	font-family: CircularStd;
+	font-family: 'Circular Std';
 	src:
 		url(https://www.visible.com/css/CircularStd-Book.otf) format("opentype"),
 		url(https://www.visible.com/css/CircularStd-Book.woff) format("woff"),
