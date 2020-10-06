@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'CircularStd';
-    src: url(https://www.visible.com/css/CircularVisible-Book.woff2) format('woff2');
+    src: url(https://www.eatamplified.com/assets/fonts/circular/CircularStd-Book.woff2) format('woff2');
     font-style: normal;
     font-weight: 400;
 }
