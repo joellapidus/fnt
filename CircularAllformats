@@ -4,7 +4,6 @@
 		url(https://www.visible.com/css/CircularStd-Book.otf) format("opentype"),
 		url(https://www.visible.com/css/CircularStd-Book.woff) format("woff"),
 		url(https://www.visible.com/css/CircularStd-Book.woff2) format("woff2");
-		font-weight:400;
-	font-style:normal;
-	font-display:auto
-	}
+	font-weight: 400;
+	font-style: normal;
+}
