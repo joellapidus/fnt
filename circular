@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'CircularStd';
+    src: url(https://visiblexredrocks.com/CircularStd-Book.f6991213f0a8bcf6c00c.woff2) format('woff2');
+}
