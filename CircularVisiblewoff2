@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'CircularStd';
+    font-family: 'CircularStd-Book';
     src: url(https://www.eatamplified.com/assets/fonts/circular/CircularStd-Book.woff2) format("woff2");
     font-style: normal;
 
