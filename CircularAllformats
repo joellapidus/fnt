@@ -1,5 +1,5 @@
 @font-face{
-	font-family:CircularStd;
+	font-family: CircularStd;
 	src:
 		url(CircularStd-Book.eot),
 		url(CircularStd-Book.eot?#iefix) format("embedded-opentype"),
