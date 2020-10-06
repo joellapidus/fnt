@@ -1,11 +1,7 @@
 @font-face{
 	font-family: CircularStd;
 	src:
-		url(https://www.visible.com/css/CircularStd-Book.eot) format("embedded-opentype"),
-		url(https://www.visible.com/css/CircularStd-Book.eot?#iefix) format("embedded-opentype"),
 		url(https://www.visible.com/css/CircularStd-Book.otf) format("opentype"),
-		url(https://www.visible.com/css/CircularStd-Book.svg) format("svg"),
-		url(https://www.visible.com/css/CircularStd-Book.ttf) format("truetype"),
 		url(https://www.visible.com/css/CircularStd-Book.woff) format("woff"),
 		url(https://www.visible.com/css/CircularStd-Book.woff2) format("woff2");
 		font-weight:400;
