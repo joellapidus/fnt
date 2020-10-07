@@ -1,4 +1,0 @@
-@font-face {
-    font-family: 'CircularStd';
-    src: url(https://www.visible.com/css/CircularVisible-Book.woff) format('woff');
-}
