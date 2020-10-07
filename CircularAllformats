@@ -1,8 +1,8 @@
 @font-face {
 	font-family: CircularStd;
 	src: 
-		url(https://github.com/joellapidus/fnt/blob/main/Circular%20Std%20Font.otf?raw=true) format("opentype"),
-		url(https://github.com/joellapidus/fnt/blob/main/CircularVisible-Book.eot?raw=true) format("embedded-opentype"),
+		/* url(https://github.com/joellapidus/fnt/blob/main/Circular%20Std%20Font.otf?raw=true) format("opentype"), */
+		/* url(https://github.com/joellapidus/fnt/blob/main/CircularVisible-Book.eot?raw=true) format("embedded-opentype"), */
 		url(https://github.com/joellapidus/fnt/blob/main/CircularVisible-Book.woff?raw=true) format("woff"),
 		url(https://github.com/joellapidus/fnt/blob/main/CircularVisible-Book.woff2?raw=true) format("woff2");
 	font-weight:400;
