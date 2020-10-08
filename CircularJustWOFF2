@@ -1,5 +1,5 @@
 @font-face {
 	font-family: 'CircularStd';
-	src: url(https://github.com/joellapidus/fnt/blob/main/CircularVisible-Book.woff2?raw=true) format('woff2');
+	src: url(https://raw.githubusercontent.com/joellapidus/fnt/main/CircularJustWOFF2) format('woff2');
 	}
 
